@@ -1,0 +1,7 @@
+Nombre_Supuesto,Valor,Unidad,Descripcion
+Volumen_Inicial,1000,GB,Volumen de datos inicial para la simulación de rendimiento.
+Crecimiento_Total,50,Porcentaje,Crecimiento total del volumen de datos proyectado en 2 años.
+Latencia_HDD_Base,50,ms,Latencia de referencia para discos duros.
+Latencia_SSD_Base,5,ms,Latencia de referencia para discos de estado sólido.
+Degradacion_HDD,0.005,ms_por_GB,Aumento de latencia por cada GB de datos en HDD.
+Degradacion_SSD,0.0001,ms_por_GB,Aumento de latencia por cada GB de datos en SSD.
